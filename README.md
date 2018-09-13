@@ -11,7 +11,7 @@ npm install -g react16-cli
 Then generate your new project:
 
 ```bash
-react16
+react16 init
 ```
 
 ## License
