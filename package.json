@@ -1,10 +1,10 @@
 {
-  "name": "react-redux-cli",
+  "name": "react16-cli",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "bin": {
-    "react-redux-cli": "./index.js"
+    "react16": "./index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
