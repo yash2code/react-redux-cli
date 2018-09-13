@@ -1,10 +1,10 @@
 {
   "name": "react16-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "bin": {
-    "react16": "./index.js"
+    "react16 init": "./index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,7 +12,7 @@
   "author": "yash chaudhary",
   "license": "ISC",
   "dependencies": {
-    "generator-boilerplate-react-redux": "0.0.2",
+    "generator-boilerplate-react-redux": "0.0.3",
     "yeoman-environment": "^2.3.3"
   }
 }
